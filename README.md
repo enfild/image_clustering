@@ -1,5 +1,5 @@
 # image_clustering
-Simple example for image clustering
+Simple example for image clustering without explicitly presented clusters
 
 # Contains
 - abs FFT, Hist - features
